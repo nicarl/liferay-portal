@@ -108,13 +108,13 @@
 		<dependency>
 			<groupId>com.liferay.portletmvc4spring</groupId>
 			<artifactId>com.liferay.portletmvc4spring.framework</artifactId>
-			<version>5.2.0</version>
+			<version>5.2.4</version>
 			<scope>${spring.scope}</scope>
 		</dependency>
 		<dependency>
 			<groupId>com.liferay.portletmvc4spring</groupId>
 			<artifactId>com.liferay.portletmvc4spring.security</artifactId>
-			<version>5.2.0</version>
+			<version>5.2.4</version>
 		</dependency>
 #end
 		<dependency>
