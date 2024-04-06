@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"graphiql": "1.4.7",
+		"graphiql": "3.2.0",
 		"graphql": "^15.0.0",
 		"swagger-ui-react": "^4.1.3"
 	},
