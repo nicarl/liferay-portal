@@ -2,7 +2,7 @@
 	"dependencies": {
 		"clipboard": "2.0.4",
 		"object-hash": "^2.0.1",
-		"react-router-dom": "^5.0.1"
+		"react-router-dom": "^6.0.0"
 	},
 	"jest": {
 		"modulePathIgnorePatterns": [
