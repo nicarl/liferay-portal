@@ -3,7 +3,7 @@
 		"image-promise": "^5.0.1",
 		"moment": "^2.22.2",
 		"qs": "^6.9.6",
-		"react-router-dom": "^5.0.1"
+		"react-router-dom": "^6.0.0"
 	},
 	"description": "",
 	"jest": {
