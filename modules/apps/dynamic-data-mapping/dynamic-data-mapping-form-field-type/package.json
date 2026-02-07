@@ -2,7 +2,7 @@
 	"dependencies": {
 		"axios": "0.24.0",
 		"leaflet": "1.7.1",
-		"moment": "^2.22.2",
+		"moment": "^2.29.4",
 		"text-mask-addons": "^3.7.1",
 		"text-mask-core": "^5.1.2"
 	},
